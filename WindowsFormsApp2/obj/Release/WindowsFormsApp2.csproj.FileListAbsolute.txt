@@ -1,0 +1,9 @@
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.StudentAdd.resources
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.StudentDelete.resources
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.StudentGirlSearch.resources
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.StudentMain.resources
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.StudentModify.resources
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.StudentBoySearch.resources
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\dg\Documents\카카오톡 받은 파일\20143216 이동광 학생성적관리프로그램\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
